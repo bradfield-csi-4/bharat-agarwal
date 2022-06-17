@@ -1,13 +1,13 @@
 ### Chapter 5 - Pointers and Arrays
-- Pointers and addresses
-- Pointers and function arguments
-- Pointers and arrays
-- Address arithmetic
-- Character pointers and functions
-- Pointer arrays; pointers to pointers
-- Multi-dimensional arrays
-- Initialization of pointer arrays
-- Pointers vs. multi-dimensional arrays
-- Command-line arguments 
-- Pointers to functions 
-- Complicated declarations
+- [x] Pointers and addresses
+- [x] Pointers and function arguments
+- [ ] Pointers and arrays
+- [ ] Address arithmetic
+- [ ] Character pointers and functions
+- [ ] Pointer arrays; pointers to pointers
+- [ ] Multi-dimensional arrays
+- [ ] Initialization of pointer arrays
+- [ ] Pointers vs. multi-dimensional arrays
+- [ ] Command-line arguments 
+- [ ] Pointers to functions 
+- [ ] Complicated declarations
