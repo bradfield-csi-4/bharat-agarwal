@@ -2,7 +2,7 @@
 
 1. Hello, World! -- done
 1. Variables -- done
-1. Passing Arguments to the Script
+1. Passing Arguments to the Script -- done
 1. Arrays
 1. Basic Operators
 1. Basic String Operations
